@@ -2,6 +2,14 @@ body {
 	background-color: #0d1117;
 }
 
+h1 {
+	color: #fff;
+}
+
 #tabs {
 	margin-top: 25px;
+}
+
+.ui-tabs-active a {
+	background-color: #51b765;
 }
