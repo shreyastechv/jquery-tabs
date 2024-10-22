@@ -6,6 +6,10 @@ h1 {
 	color: #fff;
 }
 
+a {
+	text-decoration: none;
+}
+
 #tabs {
 	margin-top: 25px;
 }
